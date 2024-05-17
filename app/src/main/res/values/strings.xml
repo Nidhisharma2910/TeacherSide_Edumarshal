@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TeacherSide_Edumarshal</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="assistant_professor">Assistant Professor</string>
+    <string name="menakshi_mam">Menakshi Mam</string>
+    <string name="reset_password"><u>Reset Password</u></string>
+    <string name="login">Login</string>
+    <string name="enter_user_id">Enter User ID</string>
+</resources>
